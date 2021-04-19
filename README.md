@@ -3,11 +3,9 @@ This was a college project for a "Visualization" module which formed part of a H
 
 ## Data Sources
 
-* European Commission Eurostat, 2020. eurostat: Your key to European statistics.
-Available at: https://ec.europa.eu/eurostat/data/database
-* Our World in Data, 2019. CO₂ and Greenhouse Gas Emissions.
-Available at: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
-[Accessed 11 July 2020]
+* European Commission Eurostat, 2020. eurostat: https://ec.europa.eu/eurostat/data/database
+* Our World in Data, 2019. CO₂ and Greenhouse Gas Emissions: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+
 
 ## Attached Data
 
